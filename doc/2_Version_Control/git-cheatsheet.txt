@@ -1,0 +1,14 @@
+git add . (adds what you want to stage)
+git commit -m "messages (creates a commit with a message attached)
+git branch (creates another branch)
+git checkout (leaves the past branch and moves to the branch you are in)
+git pull (pull from the origin)
+    - git pull upstream
+git push origin (feature) - (pushes your changes to your remote repo (YOUR one))
+    -u <remote> <branch> is needed for your first commit in a branch
+git merge - merges two branches
+git rebase - rebases your changes onto the one you pulled from remote
+git fetch upstream (origin) - (fetches what changed between the upstream or (your own) repo)
+git status (sees what has been changed)
+git log (sees a log of all git changes)
+git diff
